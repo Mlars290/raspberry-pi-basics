@@ -1,28 +1,21 @@
-# Raspberry Pi Basics
+## Learning Roadmap
 
-This repository documents my learning journey using a Raspberry Pi, focusing on core foundations before moving into robotics, computer vision, and AI.
+### Week 0 – Linux & Terminal Basics
+- Navigating the filesystem
+- Creating and editing files
+- Permissions and processes
 
-## Goals
-- Learn Linux terminal basics
-- Understand file systems and permissions
-- Run Python scripts on a Raspberry Pi
-- Use SSH for remote access
-- Build confidence working with real hardware systems
+### Week 1 – Python on Raspberry Pi
+- Running Python scripts
+- Input/output
+- Basic scripting
 
-## Structure
-week0/ # Linux + terminal basics
-week1/ # Python scripting on Raspberry Pi
-week2/ # SSH and remote control
-week3/ # Python environments and package management
+### Week 2 – SSH & Remote Access
+- Connecting to Pi remotely
+- File transfer
+- Remote execution
 
-csharp
-Copy code
-
-## Why this project
-Rather than jumping straight into hardware kits, this project focuses on mastering the fundamentals that real-world embedded systems and robotics projects depend on.
-
-## Progress
-- [ ] Linux terminal basics
-- [ ] Python on Raspberry Pi
-- [ ] SSH remote access
-- [ ] Environment setup
+### Week 3 – Python Environments
+- Virtual environments
+- Package management
+- Dependency isolation
