@@ -1,0 +1,4 @@
+Hello from the Linux terminal!
+
+This file was created and edited using nano
+as part of Week 0 Linux practice.
